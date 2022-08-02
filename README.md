@@ -31,4 +31,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnylina&show_icons=true&theme=radical)     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnylina&layout=compact&theme=redical)](https://github.com/sunnylina/github-readme-stats)
-![mazandi profile](http://mazandi.herokuapp.com/api?sunnylina={sunnylina}&theme=dark)
+  <img src="http://mazandi.herokuapp.com/api?handle={iamlina}&theme=warm"/>
