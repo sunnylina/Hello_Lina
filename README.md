@@ -31,3 +31,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnylina)](https://github.com/sunnylina/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnylina&layout=compact)](https://github.com/sunnylina/github-readme-stats)
