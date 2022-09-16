@@ -25,10 +25,9 @@
 <div>
   <img src="https://img.shields.io/badge/Python-4695EB?style=flat-square&logo=Python&logoColor=white">
 </div> 
-<div align = 'center'>
- <p>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnylina)
-  </p>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnylina&show_icons=true&theme=radical)     
-</div>
+
  
