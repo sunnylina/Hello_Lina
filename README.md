@@ -23,7 +23,7 @@
 ### 💪 Skills
 #### Platforms & Languages
 <div inline = 'center'>
-  <img src="https://img.shields.io/badge/Python-4695EB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4695EB?style=flat-square&logo=Python&logoColor=white" />
 
 <div inline = 'center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnylina&theme=dracula&exclude_repo=Computer-Science-     Engineering&layout=compact&langs_count=10"/> 
