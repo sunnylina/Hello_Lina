@@ -25,7 +25,7 @@
 <div inline = 'center'>
   <img src="https://img.shields.io/badge/Python-4695EB?style=flat-square&logo=Python&logoColor=white"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnylina&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnylina&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"> 
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnylina&show_icons=true&theme=radical)     
  
