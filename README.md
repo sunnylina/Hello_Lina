@@ -2,7 +2,7 @@
 <p>
   <a href="https://github.com/sunnylina" target="_blank"><img src="https://img.shields.io/badge/sunnylina-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
    <a href="https://www.instagram.com/dev._.lina/" target="_blank"><img src="https://img.shields.io/badge/dev._.lina-1DA1F2?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:linatyranno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wngpfls001@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:linatyranno@gmail.com" target="_blank"><img src="https://img.shields.io/badge/linatyranno@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
