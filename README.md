@@ -9,8 +9,8 @@
   👋&nbsp; Hi there! 🚀<br/>
    I'm working as a data scientist dealing with security data.🫶🏻<br/>
    I worked as a vice president at a high school English academy for the past three years.👩🏻‍🏫<br/>
-   I started studying development with the hope that children and teachers could study more comfortably and efficiently.💓
-   I will study in various ways to become a more professional data scientist.
+   I started studying development with the hope that children and teachers could study more comfortably and efficiently.💓<br/>
+   I will study in various ways to become a more professional data scientist.<br/>
    So now I'm learning statistics in college. My goal is to go to graduate school in two years.
 
 <br/>
