@@ -7,9 +7,13 @@
 
 <p>
   👋&nbsp; Hi there! 🚀<br/>
-   I'm studying to be a data analyst.🫶🏻<br/>
+   I'm working as a data scientist dealing with security data.🫶🏻<br/>
    I worked as a vice president at a high school English academy for the past three years.👩🏻‍🏫<br/>
-   I started studying development with the hope that children and teachers could study more comfortably and efficiently.💓<br/>
+   I started studying development with the hope that children and teachers could study more comfortably and efficiently.💓
+   I will study in various ways to become a more professional data scientist.
+   So now I'm learning statistics in college. My goal is to go to graduate school in two years.
+
+<br/>
    Please look forward to seeing how I grow.😊<br/>
   <br/>
   <br/>
